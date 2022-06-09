@@ -1,0 +1,15 @@
+*/__pycache__
+*/__pycache__/*
+
+*~
+*.lnk
+
+*.pyc
+*.bak
+
+build/
+dist/
+hapi2_abscoef_discrete.egg-info/
+
+tests/*
+!tests/*.py

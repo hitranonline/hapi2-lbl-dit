@@ -1,0 +1,4 @@
+#hitran-api>=1.1.2.0
+#SQLAlchemy>=1.2.7
+
+#python-dateutil>=2.8.1
